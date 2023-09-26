@@ -25,6 +25,7 @@ A Computer Science graduate from Texas State University, I specialize in web dev
 Currently, I'm collaborating with a dedicated team on a scheduling app, leveraging Python, Flask, Microsoft Azure, SQL, and Jira to bring our vision to life.
 
 ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 ---
 
 ### 🌐 Connect with Me
