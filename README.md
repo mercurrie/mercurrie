@@ -2,7 +2,7 @@
 
 [![An image of @mercurrie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mercurrie)](https://holopin.io/@mercurrie)
 
-### 👋 Hello, I'm Mason E. R. Currie
+### 👋 Hello, I'm Mason Currie
 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
