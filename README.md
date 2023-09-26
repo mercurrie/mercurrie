@@ -24,9 +24,12 @@ A Computer Science graduate from Texas State University, I specialize in web dev
 
 Currently, I'm collaborating with a dedicated team on a scheduling app, leveraging Python, Flask, Microsoft Azure, SQL, and Jira to bring our vision to life.
 
+![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 ---
 
 ### 🌐 Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mason-currie-010772b8/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://masoncurrie.com/)
+
+![Wave Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
