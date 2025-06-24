@@ -31,6 +31,5 @@ Currently, I'm collaborating with a dedicated team on a scheduling app, leveragi
 ### 🌐 Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mason-currie-010772b8/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://masoncurrie.com/)
 
 ![Envelope Gif](https://media.giphy.com/media/2wWBH0vXsVUmKtRJOe/giphy.gif)
